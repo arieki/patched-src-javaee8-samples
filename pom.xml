@@ -23,7 +23,7 @@
         <skipJSF>${skipTests}</skipJSF>
         <skipJACC>${skipTests}</skipJACC>
         
-        <payara.arquillian.version>2.2</payara.arquillian.version>
+        <payara.arquillian.version>2.3.RC1</payara.arquillian.version>
 
         <!-- Application Server versions (these are downloaded and installed
             in these versions by Maven for the CI profiles) -->
